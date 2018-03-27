@@ -10,11 +10,20 @@ Conference poster guide
 
 - Choose the Blank slide layout.
 
-- Go to File in the toolbar and click Page Setup /Design and Slide size.
+- Go to Home >> Layout >> Blank
 
-- In Insert on the toolbar choose Text Box. Place the text box 
+- Go to Design >> Slide size. Warning Will Robinson! This may vary depending on your version of Powerpoint.
+
+- Enter the height and width of your poster.
+
+- In Insert >> Text Box. Place the text box 
 
 - To add logos, charts or photos, select Insert and then select Picture. From File, browse to your file containing your images. 
 
 - Remember to align your text boxes.
 
+## Links
+
+https://colinpurrington.com/tips/poster-design
+
+https://www.historians.org/annual-meeting/resources-and-guides/poster-resources/effective-poster-presentations
