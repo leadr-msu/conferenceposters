@@ -1,6 +1,8 @@
 # conferenceposters
 Conference poster guide
+prepared by Daniel Fandin
 
+## Conference poster design
 
 ## Using Powerpoint
 
