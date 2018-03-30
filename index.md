@@ -29,3 +29,6 @@ prepared by Daniel Fandin
 [https://colinpurrington.com/tips/poster-design](https://colinpurrington.com/tips/poster-design)
 
 [https://www.historians.org/annual-meeting/resources-and-guides/poster-resources/effective-poster-presentations](https://www.historians.org/annual-meeting/resources-and-guides/poster-resources/effective-poster-presentations)
+
+-----
+### Return to [LEADR's Resources list](http://leadr-msu.github.io/)
