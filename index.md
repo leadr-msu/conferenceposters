@@ -31,4 +31,4 @@ prepared by Daniel Fandin
 [https://www.historians.org/annual-meeting/resources-and-guides/poster-resources/effective-poster-presentations](https://www.historians.org/annual-meeting/resources-and-guides/poster-resources/effective-poster-presentations)
 
 -----
-### Return to [LEADR's Resources list](http://leadr-msu.github.io/)
+### Return to [LEADR's Resources list](https://leadr-msu.github.io/)
