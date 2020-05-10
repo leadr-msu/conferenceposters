@@ -1,6 +1,6 @@
 # conferenceposters
 Conference poster guide
-prepared by Daniel Fandin
+prepared by Daniel Fandino
 
 ## Conference poster design
 
